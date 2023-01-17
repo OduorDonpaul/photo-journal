@@ -1,2 +1,2 @@
-photo-journal is a react app  project 
-the idea is sort of a social networking
+photo-journal is a react app  project with
+the idea sort of a social networking site
